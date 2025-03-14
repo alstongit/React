@@ -1,7 +1,12 @@
+import Chai from "./Chai"
 
 function App() {
   return (
-    <h1>Chai aur react with vite | Alston Dsouza</h1>
+    <div>
+      <Chai />
+      <h1>see how i fit two elements inside one.</h1>
+    </div>
+    
   )
 }
 
