@@ -9,8 +9,8 @@ function App() {
 
   return (
     <>
-    <Card></Card>
-    <Card></Card>
+    <Card username = "Alston" gender = "Male"/>
+    <Card username = "Nicole" gender = "Female"/>
     </>
   )
 }
